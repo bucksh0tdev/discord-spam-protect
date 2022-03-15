@@ -1,27 +1,31 @@
 {
-  "name": "discord-spam-protect",
-  "version": "1.0.1",
-  "description": "Discord Spam Protect",
-  "main": "main.js",
-  "scripts": {
-    "start": "node main.js"
-  },
-  "keywords": [
-    "csybot",
-    "CsYBot",
-    "csybot spam",
-    "discord spam protect",
-    "spam",
-    "discord",
-    "discord bot",
-    "discord bot make"
-  ],
-  "author": "bucksh0t",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/CsYBot/discord-spam-protect/issues"
-  },
-  "homepage": "https://github.com/CsYBot/discord-spam-protect/issues#readme",
-  "dependencies": {
-  }
+    "name": "discord-spam-protect",
+    "version": "1.0.2",
+    "description": "Discord Spam Protect",
+    "main": "main.js",
+    "scripts": {
+      "start": "node main.js"
+    },
+    "keywords": [
+      "csybot",
+      "CsYBot",
+      "csybot spam",
+      "discord spam protect",
+      "spam",
+      "discord",
+      "discord bot",
+      "discord bot make"
+    ],
+    "author": "bucksh0t",
+    "license": "Apache-2.0",
+    "bugs": {
+      "url": "https://github.com/CsYBot/discord-spam-protect/issues"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/CsYBot/discord-spam-protect.git"
+    },
+    "homepage": "https://github.com/CsYBot/discord-spam-protect/issues#readme",
+    "dependencies": {
+    }
 }
