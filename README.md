@@ -22,7 +22,7 @@ client.on("messageCreate", (message) => {
 });
 ```
 
-Message Edit Soam Protect;
+Message Edit Spam Protect;
 ```js
 const spam = require("discord-spam-protect");
 
