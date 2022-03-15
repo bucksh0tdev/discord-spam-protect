@@ -1,7 +1,10 @@
-# discord-spam-protect
-In short, you provide spam control in messages.
+<p align="center"><a href="https://nodei.co/npm/discord-spam-protect"><img src="https://nodei.co/npm/discord-spam-protect.png"></a></p>
 
-**Examples:**
+<p align="center"><img src="https://img.shields.io/npm/v/discord-spam-protect?style=for-the-badge"> <img src="https://img.shields.io/github/repo-size/CsYBot/discord-spam-protect?style=for-the-badge"> <img src="https://img.shields.io/npm/l/discord-spam-protect?style=for-the-badge"> <img src="https://img.shields.io/npm/dt/discord-spam-protect?style=for-the-badge"> <img src="https://img.shields.io/github/contributors/CsYBot/discord-spam-protect?style=for-the-badge"> <a href="https://discord.gg/gkmwaAZQBu" target="_blank"> <img alt="Discord" src="https://img.shields.io/badge/CsYBot%20Support-Click%20here-7289d9?style=for-the-badge&logo=discord"> </a></p>
+
+# discord-spam-protect
+
+**Javascript:**
 
 Message Send Spam Protect;
 ```js
